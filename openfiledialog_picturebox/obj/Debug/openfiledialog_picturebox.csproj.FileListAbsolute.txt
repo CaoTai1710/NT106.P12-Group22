@@ -1,0 +1,10 @@
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\bin\Debug\openfiledialog_picturebox.exe.config
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\bin\Debug\openfiledialog_picturebox.exe
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\bin\Debug\openfiledialog_picturebox.pdb
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.csproj.AssemblyReference.cache
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.Form1.resources
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.Properties.Resources.resources
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.csproj.GenerateResource.cache
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.csproj.CoreCompileInputs.cache
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.exe
+C:\KHANG\LapTrinhC#\New folder\openfiledialog_picturebox\openfiledialog_picturebox\obj\Debug\openfiledialog_picturebox.pdb
