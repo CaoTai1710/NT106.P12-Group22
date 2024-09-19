@@ -1,0 +1,16 @@
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\bin\Debug\net8.0-windows\openfiledialog_picturebox.exe
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\bin\Debug\net8.0-windows\openfiledialog_picturebox.deps.json
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\bin\Debug\net8.0-windows\openfiledialog_picturebox.runtimeconfig.json
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\bin\Debug\net8.0-windows\openfiledialog_picturebox.dll
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\bin\Debug\net8.0-windows\openfiledialog_picturebox.pdb
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.Form1.resources
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.csproj.GenerateResource.cache
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.AssemblyInfoInputs.cache
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.AssemblyInfo.cs
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.csproj.CoreCompileInputs.cache
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.dll
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\refint\openfiledialog_picturebox.dll
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.pdb
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\openfiledialog_picturebox.genruntimeconfig.cache
+C:\Users\W\source\repos\BaiTapTuan2\openfiledialog_picturebox\obj\Debug\net8.0-windows\ref\openfiledialog_picturebox.dll
