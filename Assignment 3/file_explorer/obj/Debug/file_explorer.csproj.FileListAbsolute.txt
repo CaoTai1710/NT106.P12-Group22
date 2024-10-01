@@ -1,0 +1,10 @@
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\bin\Debug\file_explorer.exe.config
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\bin\Debug\file_explorer.exe
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\bin\Debug\file_explorer.pdb
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.csproj.AssemblyReference.cache
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.Form1.resources
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.Properties.Resources.resources
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.csproj.GenerateResource.cache
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.csproj.CoreCompileInputs.cache
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.exe
+C:\KHANG\LapTrinhC#\Lý Thuyết\file_explorer\file_explorer\obj\Debug\file_explorer.pdb
