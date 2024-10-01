@@ -1,6 +1,0 @@
-C:\Users\W\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\net8.0-windows\Calculator.Form1.resources
-C:\Users\W\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
-C:\Users\W\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\W\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
-C:\Users\W\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
-C:\Users\W\source\repos\BaiTapTuan2\BaiTapTuan2\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
